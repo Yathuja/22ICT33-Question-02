@@ -53,5 +53,25 @@ namespace BookBorrowingTracker
             txtBookTitle.Clear();
             dtpBorrowDate.Value = DateTime.Today;
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            txtStudentName.Clear();
+            txtBookTitle.Clear();
+            dtpBorrowDate.Value = DateTime.Today;
+            lstBorrowedBooks.ClearSelected();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            if (lstBorrowedBooks.SelectedIndex >= 0)
+            {
+                lstBorrowedBooks.Items.RemoveAt(lstBorrowedBooks.SelectedIndex);
+            }
+            else
+            {
+                MessageBox.Show("Please select a record to delete.", "Delete Record");
+            }
+        }
     }
 }

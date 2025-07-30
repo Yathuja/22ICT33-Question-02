@@ -1,0 +1,12 @@
+E:\UCJ\2025\Exams\Final\SCM Practical\BookBorrowingTracker\BookBorrowingTracker\bin\Debug\BookBorrowingTracker.exe.config
+E:\UCJ\2025\Exams\Final\SCM Practical\BookBorrowingTracker\BookBorrowingTracker\bin\Debug\BookBorrowingTracker.exe
+E:\UCJ\2025\Exams\Final\SCM Practical\BookBorrowingTracker\BookBorrowingTracker\bin\Debug\BookBorrowingTracker.pdb
+E:\UCJ\2025\Exams\Final\SCM Practical\BookBorrowingTracker\BookBorrowingTracker\obj\Debug\BookBorrowingTracker.csprojResolveAssemblyReference.cache
+E:\UCJ\2025\Exams\Final\SCM Practical\BookBorrowingTracker\BookBorrowingTracker\obj\Debug\BookBorrowingTracker.Form1.resources
+E:\UCJ\2025\Exams\Final\SCM Practical\BookBorrowingTracker\BookBorrowingTracker\obj\Debug\BookBorrowingTracker.Properties.Resources.resources
+E:\UCJ\2025\Exams\Final\SCM Practical\BookBorrowingTracker\BookBorrowingTracker\obj\Debug\BookBorrowingTracker.csproj.GenerateResource.Cache
+E:\UCJ\2025\Exams\Final\SCM Practical\BookBorrowingTracker\BookBorrowingTracker\obj\Debug\BookBorrowingTracker.exe
+E:\UCJ\2025\Exams\Final\SCM Practical\BookBorrowingTracker\BookBorrowingTracker\obj\Debug\BookBorrowingTracker.pdb
+C:\Users\ICT LAB\Desktop\SCM Practical\BookBorrowingTracker\BookBorrowingTracker\bin\Debug\BookBorrowingTracker.exe.config
+C:\Users\ICT LAB\Desktop\SCM Practical\BookBorrowingTracker\BookBorrowingTracker\obj\Debug\BookBorrowingTracker.exe
+C:\Users\ICT LAB\Desktop\SCM Practical\BookBorrowingTracker\BookBorrowingTracker\obj\Debug\BookBorrowingTracker.pdb

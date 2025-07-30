@@ -10,3 +10,9 @@ E:\UCJ\2025\Exams\Final\SCM Practical\BookBorrowingTracker\BookBorrowingTracker\
 C:\Users\ICT LAB\Desktop\SCM Practical\BookBorrowingTracker\BookBorrowingTracker\bin\Debug\BookBorrowingTracker.exe.config
 C:\Users\ICT LAB\Desktop\SCM Practical\BookBorrowingTracker\BookBorrowingTracker\obj\Debug\BookBorrowingTracker.exe
 C:\Users\ICT LAB\Desktop\SCM Practical\BookBorrowingTracker\BookBorrowingTracker\obj\Debug\BookBorrowingTracker.pdb
+C:\Users\ICT LAB\Desktop\SCM Practical\BookBorrowingTracker\BookBorrowingTracker\bin\Debug\BookBorrowingTracker.exe
+C:\Users\ICT LAB\Desktop\SCM Practical\BookBorrowingTracker\BookBorrowingTracker\bin\Debug\BookBorrowingTracker.pdb
+C:\Users\ICT LAB\Desktop\SCM Practical\BookBorrowingTracker\BookBorrowingTracker\obj\Debug\BookBorrowingTracker.csprojResolveAssemblyReference.cache
+C:\Users\ICT LAB\Desktop\SCM Practical\BookBorrowingTracker\BookBorrowingTracker\obj\Debug\BookBorrowingTracker.Form1.resources
+C:\Users\ICT LAB\Desktop\SCM Practical\BookBorrowingTracker\BookBorrowingTracker\obj\Debug\BookBorrowingTracker.Properties.Resources.resources
+C:\Users\ICT LAB\Desktop\SCM Practical\BookBorrowingTracker\BookBorrowingTracker\obj\Debug\BookBorrowingTracker.csproj.GenerateResource.Cache
